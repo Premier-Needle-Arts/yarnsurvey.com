@@ -1,0 +1,8 @@
+{"name": "my-library",
+"version": "1.0.0",
+"source": "src/index.html",
+"main": "dist/index.html",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
