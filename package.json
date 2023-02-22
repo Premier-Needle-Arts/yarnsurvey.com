@@ -1,4 +1,4 @@
-{"name": "my-library",
+{"name": "yarnsurvey",
 "version": "1.0.0",
 "source": "index.html",
 "main": "dist/index.html",
