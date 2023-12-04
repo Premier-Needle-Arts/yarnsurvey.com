@@ -30,8 +30,7 @@ export function Info() {
                                 <div className="max-w-xl">
                                     <p className="mt-6">
                                         As a cherished member of our yarn-loving community, your insights are the secret fiber 
-                                        that weaves success into our brand's fabric. We're not just spinning yarns here; your 
-                                        feedback is a vital stitch in our tapestry of customer satisfaction. By participating in 
+                                        that weaves success into our brand's fabric. By participating in 
                                         this survey, you're not only helping us tailor our offerings to your unique tastes but also 
                                         shaping the future of the yarn industry.
                                     </p>
