@@ -36,7 +36,7 @@ export function Info() {
                                     </p>
                                     <p className="mt-8">
                                         Your voice will have a direct impact to the yarn industry at large! The outcome of this 
-                                        survey will be presented at the H+H Americas 2024 conference by Jan Horowitz of Berroco
+                                        survey will be presented at the H+H Americas 2024 conference by Jan Hurwitz of Berroco
                                         where your voice will be heard by all of the brands you know and love.
                                         Together, let's knit a brighter, more vibrant future for yarn enthusiasts everywhere. 
                                     </p>
