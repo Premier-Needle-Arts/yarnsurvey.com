@@ -2,8 +2,8 @@ import Image from 'next/image'
 import stockGift from '@/images/screenshots/gift.svg'
 
 const stats = [
-    { label: 'Winners', value: '50' },
-    { label: 'Prizes Awarded', value: '$2,000+' },
+    { label: 'Past Winners', value: '50' },
+    { label: 'Prizes Awarded', value: '$1,000+' },
 ]
 
 export function InfoTwo() {
@@ -24,10 +24,10 @@ export function InfoTwo() {
                                         We understand that your time is valuable, and we just want to make it worth your while to share your thoughts and feedback with us!
                                     </p>
                                     <p className="mt-6">
-                                        We're excited to announce that we're giving away $1,000 in small denominational gift cards as a token of appreciation for completing our survey.
+                                        We're excited to announce that we're giving away $1,000 in small denominational gift cards as a token of appreciation for completing our survey. Winners will be randomly selected from collected responses after the survey has closed.
                                     </p>
                                     <p className="mt-6">
-                                        Winners will be randomly selected from collected responses after the survey has closed. Be sure to leave your email at the end of the survey so we can contact you!
+                                        Be sure to leave your email at the end of the survey so we can contact you!
                                     </p>
                                 </div>
                             </div>

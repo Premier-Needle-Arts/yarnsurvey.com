@@ -3,7 +3,7 @@ import stockData from '@/images/screenshots/data.svg'
 
 const stats = [
     { label: 'Founded', value: '2023' },
-    { label: 'Surveys', value: '2' },
+    { label: 'Surveys', value: '1' },
     { label: 'Responses', value: '14,000+' },
 ]
 
@@ -32,13 +32,13 @@ export function Info() {
                                         As a cherished member of our yarn-loving community, your insights are the secret fiber 
                                         that weaves success into our brand's fabric. By participating in 
                                         this survey, you're not only helping us tailor our offerings to your unique tastes but also 
-                                        shaping the future of the yarn industry.
+                                        helping us gain a greater understanding of the community as a whole.
                                     </p>
                                     <p className="mt-8">
-                                        Your voice will have a direct impact to the yarn industry at large. The outcome of this 
-                                        survey will be presented at the H+H Americas 2024 conference by Jan Horowitz of Berroco.
+                                        Your voice will have a direct impact to the yarn industry at large! The outcome of this 
+                                        survey will be presented at the H+H Americas 2024 conference by Jan Horowitz of Berroco
+                                        where your voice will be heard by all of the brands you know and love.
                                         Together, let's knit a brighter, more vibrant future for yarn enthusiasts everywhere. 
-                                        Share your thoughts, and watch them transform into action!
                                     </p>
                                 </div>
                             </div>
