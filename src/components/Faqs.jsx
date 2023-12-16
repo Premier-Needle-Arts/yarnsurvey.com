@@ -22,7 +22,7 @@ const faqs = [
   [
     {
       question: 'How will I know if I won?',
-      answer: 'Winners will be chosen at random and notified via email immediately after the survey is closed. If you are a lucky winner, please be sure to respond to the email within 2 business days to claim your prize. If we do not hear back from you within this time frame, we will have to choose another winner. We appreciate your understanding to get prizes out quickly and wish you the best of luck!',
+      answer: 'Winners will be chosen at random and notified via email immediately after the survey is closed. If you are a lucky winner, please be sure to respond to the email within 2 business days to claim your prize. If we do not hear back from you within this time frame, we will have to choose another winner. We appreciate your understanding and wish you the best of luck!',
     },
     {
       question: 'What are you doing with my data?',
