@@ -40,8 +40,8 @@ export function Hero() {
           {[
             [
               { name: 'Berroco', logo: logoBY },
-              { name: 'Knit Picks', logo: logoKP },
               { name: 'Crochet', logo: logoWC },
+              { name: 'Knit Picks', logo: logoKP },
             ],
           ].map((group, groupIndex) => (
             <li key={groupIndex}>
