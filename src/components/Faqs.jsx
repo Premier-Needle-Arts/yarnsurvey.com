@@ -8,11 +8,11 @@ const faqs = [
     {
       question: 'How long is the survey?',
       answer:
-        'The survey is 30 questions long with an average completion time of 20 minutes depending on your answers!',
+        'The survey is about 20 minutes depending on your answers!',
     },
     {
       question: 'Do I need to complete the survey to be elligible?',
-      answer: 'Yes, you will need to complete the survey in order to be elligible for the raffle. At the end, there will be an opportunity to enter your email to be contacted about the raffle.',
+      answer: 'Anyone who enters their email into the survey is elligible for the raffle. Those who complete the survey should expect an extra little "thank you" from us after the survey has closed.',
     },
     {
       question: 'Will I be elligible if I don\'t participate in any yarn crafts?',
@@ -22,17 +22,17 @@ const faqs = [
   [
     {
       question: 'How will I know if I won?',
-      answer: 'Winners will be chosen at random and notified via email immediately after the survey is closed. If you are a lucky winner, please be sure to respond to the email within 2 business days to claim your prize. If we do not hear back from you within this time frame, we will have to choose another winner. We appreciate your understanding and wish you the best of luck!',
+      answer: 'Winners will be chosen at random and notified via email immediately after the survey is closed. If you are a lucky winner, please be sure to respond to the email within 2 business days to claim your prize. If we do not hear back from you within this time frame, we will have to choose another winner. Be on the lookout from an email from customerservice@craftsamericana.com!',
     },
     {
-      question: 'What are you doing with my data?',
-      answer: 'We value our customers\' privacy and take the responsibility of safeguarding their personal data very seriously. We want to assure you that any information collected during our survey will be kept confidential and used solely for the purpose of improving our products and services.',
+      question: 'Why did I receive this email?',
+      answer: 'Premier Needle Arts is the parent company of Knit Picks, Crochet.com, and Berroco, so we\'re sending this email out to all active customers!',
     },
   ],
   [
     {
-      question: 'Why did I receive this email?',
-      answer: 'Premier Needle Arts is the parent company of Knit Picks, Crochet.com, and Berroco, so we\'re sending this email out to all active customers!',
+      question: 'What are you doing with my data?',
+      answer: 'We value our customers\' privacy and take the responsibility of safeguarding their personal data very seriously! We want to assure you that any information collected during our survey will be kept confidential and used solely for the purpose of improving our products and services.',
     },
   ],
 ]

@@ -23,7 +23,7 @@ export function CallToAction() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             Ready to take the survey?
           </h2>
-          <Button href="/register" color="white" className="mt-10">
+          <Button href="/" color="white" className="mt-10">
             Start Survey
           </Button>
         </div>
