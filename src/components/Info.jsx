@@ -3,7 +3,7 @@ import stockData from '@/images/screenshots/data.svg'
 
 const stats = [
     { label: 'Founded', value: '2023' },
-    { label: 'Surveys', value: '1' },
+    { label: 'Surveys', value: '2' },
     { label: 'Responses', value: '14,000+' },
 ]
 
