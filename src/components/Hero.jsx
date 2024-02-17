@@ -24,10 +24,10 @@ export function Hero() {
         </span>{' '}
       </h1>
       <p className="mx-auto mt-10 max-w-2xl text-lg tracking-tight text-slate-700">
-        Open from 2/19 - 2/25.
+       Click below to begin!
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="/#">Start Survey</Button>
+        <Button href="https://form.typeform.com/to/V8DRQsGQ">Start Survey</Button>
       </div>
       <div className="mt-36 lg:mt-44">
         <p className="font-display text-base text-slate-900">
