@@ -8,7 +8,7 @@ const faqs = [
     {
       question: 'How long is the survey?',
       answer:
-        'The survey is about 20 minutes depending on your answers!',
+        'The survey is about 10 minutes depending on your answers!',
     },
     {
       question: 'Do I need to complete the survey to be elligible?',
